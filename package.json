@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tanya280924/chat-app/issues"
   },
-  "homepage": "https://github.com/tanya280924/chat-app#readme"
+  "homepage": "https://github.com/tanya280924/chat-app#readme",
+  "dependencies": {
+    "npm": "^6.14.8"
+  }
 }
