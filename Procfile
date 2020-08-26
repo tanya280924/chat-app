@@ -1,1 +1,1 @@
-web: node scriptclient.js
+web: node index.js
