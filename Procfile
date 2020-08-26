@@ -1,1 +1,1 @@
-web: node ./chat application/index.js
+web: node ./nodeserver/index.js
